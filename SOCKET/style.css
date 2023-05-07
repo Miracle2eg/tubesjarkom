@@ -1,0 +1,9 @@
+.header {
+    background-color: #000000;
+    background-image: url("/background-green.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 120px;
+}
